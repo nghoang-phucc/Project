@@ -2,4 +2,11 @@ sua file nay
 jjj
 asdasdasdasdasd
 
+<<<<<<< HEAD
 hello
+=======
+gggggggggg
+>>>>>>> nhanvienC
+
+them noi dung moi 
+ them noi dung nua
